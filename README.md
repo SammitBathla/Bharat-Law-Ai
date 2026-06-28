@@ -4,7 +4,8 @@
 
 In Enlglish Language
 
-<img width="1918" height="1002" alt="image" src="https://github.com/user-attachments/assets/44d86566-314a-4c3c-af23-f3fd370c359d" />
+<img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/f14dc3fb-b921-48e2-927d-fdeeacbd11b7" />
+
 
 In Tamil Language
 
