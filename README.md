@@ -9,8 +9,7 @@ In Enlglish Language
 
 In Tamil Language
 
-<img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/a05ceba5-73fb-414a-a74b-4e157223bcf7" />
-
+<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/f3f58759-b70d-4dbf-8964-43c43c609c18" />
 
 ---
 
