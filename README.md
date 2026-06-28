@@ -1,7 +1,15 @@
 # 🧠 Bharat-Law-AI
 
 ### *Agentic AI for Intelligent Legal Document Retrieval & Multilingual Legal Query Understanding*
+
+In Enlglish Language
+
 <img width="1918" height="1002" alt="image" src="https://github.com/user-attachments/assets/44d86566-314a-4c3c-af23-f3fd370c359d" />
+
+In Tamil Language
+
+<img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/a05ceba5-73fb-414a-a74b-4e157223bcf7" />
+
 
 ---
 
